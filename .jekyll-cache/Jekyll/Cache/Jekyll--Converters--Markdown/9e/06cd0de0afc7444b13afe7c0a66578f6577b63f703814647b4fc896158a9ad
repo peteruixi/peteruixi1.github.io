@@ -1,0 +1,13 @@
+I"ö<!--<embed src="/assets/Ruixi_Li cv.pdf" width="800" height="1000"/>
+As of Jan-2020 
+
+<iframe id="fred" style="border:1px solid #666CCC" title="PDF in an i-Frame" src="/assets/Ruixi_Li cv.pdf" frameborder="1" scrolling="auto" height="5000" width="800" ></iframe>-->
+
+<html>
+<body>
+    <iframe id="fred" style="border:1px solid #666CCC" title="PDF in an i-Frame" src="/assets/Ruixi_Li cv.pdf" frameborder="1" scrolling="auto" height="5000" width="800"></iframe>
+    
+    As of Jan- 2020
+</body>
+</html>
+:ET
