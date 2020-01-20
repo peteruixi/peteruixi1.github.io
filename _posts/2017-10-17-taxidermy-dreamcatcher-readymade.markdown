@@ -6,7 +6,7 @@ description:
 image: /assets/images/placeholder-6.jpg
 author: Thomas Vaeth
 tags: 
-  - Dummy Text
+  
   - Moon Drinking
   - Kale
 ---

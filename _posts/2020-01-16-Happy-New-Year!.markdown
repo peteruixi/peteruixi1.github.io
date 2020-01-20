@@ -4,6 +4,11 @@ title:  "Happy New Year! (New year resolution)"
 date:   2020-01-16 16:30:00 +0800
 image: /assets/images/IMG_9534-COPY.jpeg
 categories: jekyll update
+author: Ruixi "Peter" Li
+tags: 
+    - Academics
+    - Skills
+    - Fitness
 ---
 Hi there, to whomever is reading this post. 
 Welcome to my site! To find out more about myself, feel free to explore the about tab. It will be filled with a lot more content in the future.
@@ -25,3 +30,9 @@ I wish to become verstaile in more aspects. Hence, I signed up for driver school
 I longing burden of my is my physical condition. I have always been a large dude. Being a large dude has it's fair share of benefits but I would like to change it for the better of my health in the future. Towards the end of my undergrad, I am starting to realize the importance of maintaining one's body.
 
 That being said, I would try to not let words and determination go to vain, I will continuously post my journey on this blog, stay tune. 
+
+<hr/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qjkRqVQnG7s" frameborder="0" allowfullscreen></iframe>
+
+<hr/>
