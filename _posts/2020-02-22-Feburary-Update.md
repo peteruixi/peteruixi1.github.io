@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Feburary Update"
+date:   2020-02-23 08:30:00 +0800
+image: /assets/images/IMG_9534-COPY.jpeg
+categories: jekyll update
+author: Ruixi "Peter" Li
+tags: 
+    - Academics
+    - Skills
+---
+
+
+It has been more than a month since my last post on this blog. The past month has been
+quite the experience, having to dealt with stuff happening in an array of aspects. 
+I would be dissecting the content of this update so the in-page link down below should direct to whatever its corresponding topic. 
+
+* [Reading](#reading)
+Online lectures
+Projects 
+Coronavirus
+Life
+Music
+TV Shows 
+
+--- 
+### Reading
+One of the books I been reading imensely is: ["Grokking Algorithms: An Illustrated Guide for Programmers and Other"](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) by Aditya Y. Bhargava. As if the title of the book isn't telling, the book used loads of hand-drawn images to explain concepts and practition of algoritms. It definately gives reader the illusion of reading a fun comic book at times. The book essentially covers all the basics one need to know to get started with data structures and algorithms. Becasue of it's illustrative nature, I would say it is a great reading material for people with zero computer programming background.
+
+The reason why I chose this book to read in the first time, I will admit, I felt discourage to read thousands of pages of cuda programming even though its more elevant to my feild of interest. I am actually unregretfful to say thanks for my tardiness, I was able to read such an inspiring book. This book is all that I wished to have when I was studying data structure and algorithms, the most difficult part for me was trying to draw it out. If I had this book back then, I would be able to code and understand the Fibonacci sequence without peeking into someone else's github repo, maybe it's a stretch since I was quite "uneducated" on programming back then. But I surely will be able to understand what a bucket in a hashtable means. 
