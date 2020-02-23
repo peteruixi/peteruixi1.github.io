@@ -5,7 +5,7 @@ permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 name: Ruixi Li
-title: Ruixi "Peter" Li 
+title: Ruixi "Peter" Li
 description: >
   Hi, welcome to my page. My name is Ruixi Li, my friends call me Peter or Pete. 
   Learn more about me by exploring the site. 
@@ -61,7 +61,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'Ruixi "Peter" Li'
     permalink: '/tag/:tag'
     slugify:
       mode: raw

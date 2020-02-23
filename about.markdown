@@ -15,19 +15,29 @@ Hi, my name is Ruixi Li, my friends call me peter or pete. I received my bachelo
     
 My field of interest is in computer architecture, parallel computing and computer security. I will continue to challenge myself to be more creative and productive, even if I am not in a position of having guidance. I would still strive to better myself. 
 
-I would say I am a chill guy who is into various things: 
-[Sports] (#Sports)
+I would say I am an easygoing dude who is into a lot of things. To name just a few of them: Music, Photography, Gaming and Fashion. The rest of this page will reveal more on what I like and how I am as a person. Don't be hesistant to contact me.
 
-#### Sports
-
-Btw, I'm a chill dude who is into a lot of things: Sports (literally all kinds), Gaming(console & PC), Music of all genres, Film making, Photography, Clothing and Fashion etc. Yea, I like exploring things in this world, I don't think there is one thing that uninterests me.
+---
 
 <div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#Personal_Interest"> Personal Interest</a>
-  <a href="#about">About</a>
+  <a class="active" href="#about">About</a>
+  <a href="#myself">Myself</a>
+  <a href="#Projects">Projects</a>
+  <a href="#Music"> Music</a>
+  <a href="#Sports and Gaming">Sports and Gaming</a>
+  <a href="#Travel">Travel</a>
+  <a href="#Video Editing">Video Editing</a>
+  <a href="#Menswear">Menswear</a>
 </div>
+
+
+---
+
+#### Myself 
+I was borned in 1998, Guangzhou, China. My father is a middle school history teacher while my mother works for the Enviroment protection agency. Mypartents believed that to speak a foreign laguange is the best pre-school training. Hence, eversince I was four, I would spend my sunday afternoon learning english from foreign instructors all the way till I was fourteen. I am grateful for the decision they made. English and western culture has been an integral part of my life, I grow up watching disney channel Nickalodeans. It made me particularly good at english throughout elemantary school and middle school but not so much anything else. Being able to know you are always better at something than your peers definately is a confidence booster, but at the same time I dont now what I am passionate about other than travelling to a english spearking country.
+
+
+With the doubt I had, I came to the US for high school hoping to find something I would be interested in. I spent a year and half at a christian high school in San Diego, CA. I would be lying if I said there weren't any cultural differences. The differences is quite massive, in fact, I had doubts on whether it was the right decision to make. But ultimately, I found what I like, in those days when I dont know how I could fit in, I found my acceptance online, in video games talking to players, streamers online understanding their way of living.
 
 
 <!--This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
